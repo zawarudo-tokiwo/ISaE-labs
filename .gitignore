@@ -1,0 +1,34 @@
+# AI generated
+
+# Microsoft Office formats
+*.doc
+*.docx
+*.dot
+*.dotx
+*.xls
+*.xlsx
+*.xlsm
+*.xlt
+*.xltx
+*.ppt
+*.pptx
+*.pps
+*.ppsx
+*.pot
+*.potx
+
+# LibreOffice formats
+*.odt
+*.ott
+*.ods
+*.ots
+*.odp
+*.otp
+*.odg
+*.otg
+*.odf
+*.odb
+*.odm
+*.odc
+*.odi
+*.odf
