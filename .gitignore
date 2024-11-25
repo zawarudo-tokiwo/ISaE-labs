@@ -1,4 +1,7 @@
 .python-version
+__pycache__/
+pyrightconfig.json
+
 
 # AI generated
 # Microsoft Office formats
